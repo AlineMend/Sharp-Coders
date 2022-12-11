@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\obj\Debug\net6.0\TempoDeJogoComMinutos -1047.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\obj\Debug\net6.0\TempoDeJogoComMinutos -1047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\obj\Debug\net6.0\TempoDeJogoComMinutos -1047.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\obj\Debug\net6.0\TempoDeJogoComMinutos -1047.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\obj\Debug\net6.0\TempoDeJogoComMinutos -1047.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\bin\Debug\net6.0\TempoDeJogoComMinutos -1047.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\bin\Debug\net6.0\TempoDeJogoComMinutos -1047.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\bin\Debug\net6.0\TempoDeJogoComMinutos -1047.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\bin\Debug\net6.0\TempoDeJogoComMinutos -1047.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\bin\Debug\net6.0\TempoDeJogoComMinutos -1047.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\obj\Debug\net6.0\TempoDeJogoComMinutos -1047.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\obj\Debug\net6.0\refint\TempoDeJogoComMinutos -1047.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\obj\Debug\net6.0\TempoDeJogoComMinutos -1047.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\obj\Debug\net6.0\TempoDeJogoComMinutos -1047.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogoComMinutos -1047\TempoDeJogoComMinutos -1047\obj\Debug\net6.0\ref\TempoDeJogoComMinutos -1047.dll

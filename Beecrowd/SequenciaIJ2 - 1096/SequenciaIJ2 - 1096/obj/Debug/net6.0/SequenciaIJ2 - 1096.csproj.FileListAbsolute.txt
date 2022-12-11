@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\bin\Debug\net6.0\SequenciaIJ2 - 1096.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\bin\Debug\net6.0\SequenciaIJ2 - 1096.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\bin\Debug\net6.0\SequenciaIJ2 - 1096.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\bin\Debug\net6.0\SequenciaIJ2 - 1096.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\bin\Debug\net6.0\SequenciaIJ2 - 1096.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\obj\Debug\net6.0\SequenciaIJ2 - 1096.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\obj\Debug\net6.0\SequenciaIJ2 - 1096.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\obj\Debug\net6.0\SequenciaIJ2 - 1096.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\obj\Debug\net6.0\SequenciaIJ2 - 1096.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\obj\Debug\net6.0\SequenciaIJ2 - 1096.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\obj\Debug\net6.0\SequenciaIJ2 - 1096.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\obj\Debug\net6.0\refint\SequenciaIJ2 - 1096.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\obj\Debug\net6.0\SequenciaIJ2 - 1096.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\obj\Debug\net6.0\SequenciaIJ2 - 1096.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ2 - 1096\SequenciaIJ2 - 1096\obj\Debug\net6.0\ref\SequenciaIJ2 - 1096.dll

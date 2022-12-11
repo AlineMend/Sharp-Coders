@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\bin\Debug\net6.0\CrescenteDecrescente - 1113.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\bin\Debug\net6.0\CrescenteDecrescente - 1113.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\bin\Debug\net6.0\CrescenteDecrescente - 1113.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\bin\Debug\net6.0\CrescenteDecrescente - 1113.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\bin\Debug\net6.0\CrescenteDecrescente - 1113.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\obj\Debug\net6.0\CrescenteDecrescente - 1113.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\obj\Debug\net6.0\CrescenteDecrescente - 1113.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\obj\Debug\net6.0\CrescenteDecrescente - 1113.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\obj\Debug\net6.0\CrescenteDecrescente - 1113.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\obj\Debug\net6.0\CrescenteDecrescente - 1113.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\obj\Debug\net6.0\CrescenteDecrescente - 1113.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\obj\Debug\net6.0\refint\CrescenteDecrescente - 1113.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\obj\Debug\net6.0\CrescenteDecrescente - 1113.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\obj\Debug\net6.0\CrescenteDecrescente - 1113.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CrescenteDecrescente - 1113\CrescenteDecrescente - 1113\obj\Debug\net6.0\ref\CrescenteDecrescente - 1113.dll

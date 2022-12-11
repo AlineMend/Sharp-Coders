@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\bin\Debug\net6.0\Experiências - 1094.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\bin\Debug\net6.0\Experiências - 1094.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\bin\Debug\net6.0\Experiências - 1094.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\bin\Debug\net6.0\Experiências - 1094.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\bin\Debug\net6.0\Experiências - 1094.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\obj\Debug\net6.0\Experiências - 1094.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\obj\Debug\net6.0\Experiências - 1094.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\obj\Debug\net6.0\Experiências - 1094.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\obj\Debug\net6.0\Experiências - 1094.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\obj\Debug\net6.0\Experiências - 1094.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\obj\Debug\net6.0\Experiências - 1094.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\obj\Debug\net6.0\refint\Experiências - 1094.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\obj\Debug\net6.0\Experiências - 1094.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\obj\Debug\net6.0\Experiências - 1094.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Experiências - 1094\Experiências - 1094\obj\Debug\net6.0\ref\Experiências - 1094.dll

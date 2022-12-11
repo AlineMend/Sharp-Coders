@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SequênciaNúmerosSoma - 1101/1.0.0": {
+        "runtime": {
+          "SequênciaNúmerosSoma - 1101.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SequênciaNúmerosSoma - 1101/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\bin\Debug\net6.0\Sort Simples - 1042.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\bin\Debug\net6.0\Sort Simples - 1042.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\bin\Debug\net6.0\Sort Simples - 1042.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\bin\Debug\net6.0\Sort Simples - 1042.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\bin\Debug\net6.0\Sort Simples - 1042.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\obj\Debug\net6.0\Sort Simples - 1042.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\obj\Debug\net6.0\Sort Simples - 1042.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\obj\Debug\net6.0\Sort Simples - 1042.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\obj\Debug\net6.0\Sort Simples - 1042.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\obj\Debug\net6.0\Sort Simples - 1042.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\obj\Debug\net6.0\Sort Simples - 1042.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\obj\Debug\net6.0\refint\Sort Simples - 1042.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\obj\Debug\net6.0\Sort Simples - 1042.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\obj\Debug\net6.0\Sort Simples - 1042.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Sort Simples - 1042\Sort Simples - 1042\obj\Debug\net6.0\ref\Sort Simples - 1042.dll

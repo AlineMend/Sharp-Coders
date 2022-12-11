@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\bin\Debug\net6.0\NotasMoedas - 1021.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\bin\Debug\net6.0\NotasMoedas - 1021.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\bin\Debug\net6.0\NotasMoedas - 1021.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\bin\Debug\net6.0\NotasMoedas - 1021.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\bin\Debug\net6.0\NotasMoedas - 1021.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\obj\Debug\net6.0\NotasMoedas - 1021.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\obj\Debug\net6.0\NotasMoedas - 1021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\obj\Debug\net6.0\NotasMoedas - 1021.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\obj\Debug\net6.0\NotasMoedas - 1021.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\obj\Debug\net6.0\NotasMoedas - 1021.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\obj\Debug\net6.0\NotasMoedas - 1021.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\obj\Debug\net6.0\refint\NotasMoedas - 1021.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\obj\Debug\net6.0\NotasMoedas - 1021.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\obj\Debug\net6.0\NotasMoedas - 1021.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NotasMoedas - 1021\NotasMoedas - 1021\obj\Debug\net6.0\ref\NotasMoedas - 1021.dll

@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\bin\Debug\net6.0\NúmerosPositivos - 1060.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\bin\Debug\net6.0\NúmerosPositivos - 1060.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\bin\Debug\net6.0\NúmerosPositivos - 1060.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\bin\Debug\net6.0\NúmerosPositivos - 1060.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\bin\Debug\net6.0\NúmerosPositivos - 1060.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\obj\Debug\net6.0\NúmerosPositivos - 1060.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\obj\Debug\net6.0\NúmerosPositivos - 1060.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\obj\Debug\net6.0\NúmerosPositivos - 1060.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\obj\Debug\net6.0\NúmerosPositivos - 1060.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\obj\Debug\net6.0\NúmerosPositivos - 1060.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\obj\Debug\net6.0\NúmerosPositivos - 1060.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\obj\Debug\net6.0\refint\NúmerosPositivos - 1060.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\obj\Debug\net6.0\NúmerosPositivos - 1060.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\obj\Debug\net6.0\NúmerosPositivos - 1060.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPositivos - 1060\NúmerosPositivos - 1060\obj\Debug\net6.0\ref\NúmerosPositivos - 1060.dll

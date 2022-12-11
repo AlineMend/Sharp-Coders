@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O Maior - 1013", "O Maior - 1013\O Maior - 1013.csproj", "{C5AE5240-779D-4B5A-A3E3-0D6505ACB96E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5AE5240-779D-4B5A-A3E3-0D6505ACB96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AE5240-779D-4B5A-A3E3-0D6505ACB96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AE5240-779D-4B5A-A3E3-0D6505ACB96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AE5240-779D-4B5A-A3E3-0D6505ACB96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {197F7EC0-FB5F-479A-A5B9-626820C8F66E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\bin\Debug\net6.0\ParesEntreCincoNúmeros - 1065.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\bin\Debug\net6.0\ParesEntreCincoNúmeros - 1065.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\bin\Debug\net6.0\ParesEntreCincoNúmeros - 1065.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\bin\Debug\net6.0\ParesEntreCincoNúmeros - 1065.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\bin\Debug\net6.0\ParesEntreCincoNúmeros - 1065.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\obj\Debug\net6.0\ParesEntreCincoNúmeros - 1065.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\obj\Debug\net6.0\ParesEntreCincoNúmeros - 1065.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\obj\Debug\net6.0\ParesEntreCincoNúmeros - 1065.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\obj\Debug\net6.0\ParesEntreCincoNúmeros - 1065.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\obj\Debug\net6.0\ParesEntreCincoNúmeros - 1065.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\obj\Debug\net6.0\ParesEntreCincoNúmeros - 1065.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\obj\Debug\net6.0\refint\ParesEntreCincoNúmeros - 1065.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\obj\Debug\net6.0\ParesEntreCincoNúmeros - 1065.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\obj\Debug\net6.0\ParesEntreCincoNúmeros - 1065.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParesEntreCincoNúmeros - 1065\ParesEntreCincoNúmeros - 1065\obj\Debug\net6.0\ref\ParesEntreCincoNúmeros - 1065.dll

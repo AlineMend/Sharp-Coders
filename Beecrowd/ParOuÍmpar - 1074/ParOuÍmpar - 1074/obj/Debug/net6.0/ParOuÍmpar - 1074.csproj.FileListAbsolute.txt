@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\bin\Debug\net6.0\ParOuÍmpar - 1074.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\bin\Debug\net6.0\ParOuÍmpar - 1074.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\bin\Debug\net6.0\ParOuÍmpar - 1074.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\bin\Debug\net6.0\ParOuÍmpar - 1074.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\bin\Debug\net6.0\ParOuÍmpar - 1074.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\obj\Debug\net6.0\ParOuÍmpar - 1074.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\obj\Debug\net6.0\ParOuÍmpar - 1074.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\obj\Debug\net6.0\ParOuÍmpar - 1074.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\obj\Debug\net6.0\ParOuÍmpar - 1074.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\obj\Debug\net6.0\ParOuÍmpar - 1074.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\obj\Debug\net6.0\ParOuÍmpar - 1074.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\obj\Debug\net6.0\refint\ParOuÍmpar - 1074.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\obj\Debug\net6.0\ParOuÍmpar - 1074.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\obj\Debug\net6.0\ParOuÍmpar - 1074.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\ParOuÍmpar - 1074\ParOuÍmpar - 1074\obj\Debug\net6.0\ref\ParOuÍmpar - 1074.dll

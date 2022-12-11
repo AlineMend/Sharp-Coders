@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\bin\Debug\net6.0\Cedulas - 1018.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\bin\Debug\net6.0\Cedulas - 1018.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\bin\Debug\net6.0\Cedulas - 1018.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\bin\Debug\net6.0\Cedulas - 1018.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\bin\Debug\net6.0\Cedulas - 1018.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\obj\Debug\net6.0\Cedulas - 1018.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\obj\Debug\net6.0\Cedulas - 1018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\obj\Debug\net6.0\Cedulas - 1018.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\obj\Debug\net6.0\Cedulas - 1018.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\obj\Debug\net6.0\Cedulas - 1018.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\obj\Debug\net6.0\Cedulas - 1018.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\obj\Debug\net6.0\refint\Cedulas - 1018.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\obj\Debug\net6.0\Cedulas - 1018.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\obj\Debug\net6.0\Cedulas - 1018.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Cedulas - 1018\Cedulas - 1018\obj\Debug\net6.0\ref\Cedulas - 1018.dll

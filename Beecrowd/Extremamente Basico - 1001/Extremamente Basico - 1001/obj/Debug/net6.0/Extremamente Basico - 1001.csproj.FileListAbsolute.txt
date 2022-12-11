@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\obj\Debug\net6.0\Extremamente Basico - 1001.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\obj\Debug\net6.0\Extremamente Basico - 1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\obj\Debug\net6.0\Extremamente Basico - 1001.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\obj\Debug\net6.0\Extremamente Basico - 1001.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\obj\Debug\net6.0\Extremamente Basico - 1001.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\bin\Debug\net6.0\Extremamente Basico - 1001.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\bin\Debug\net6.0\Extremamente Basico - 1001.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\bin\Debug\net6.0\Extremamente Basico - 1001.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\bin\Debug\net6.0\Extremamente Basico - 1001.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\bin\Debug\net6.0\Extremamente Basico - 1001.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\obj\Debug\net6.0\Extremamente Basico - 1001.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\obj\Debug\net6.0\refint\Extremamente Basico - 1001.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\obj\Debug\net6.0\Extremamente Basico - 1001.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\obj\Debug\net6.0\Extremamente Basico - 1001.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Extremamente Basico - 1001\Extremamente Basico - 1001\obj\Debug\net6.0\ref\Extremamente Basico - 1001.dll

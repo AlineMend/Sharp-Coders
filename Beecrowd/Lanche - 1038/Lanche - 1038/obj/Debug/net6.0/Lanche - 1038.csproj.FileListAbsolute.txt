@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\bin\Debug\net6.0\Lanche - 1038.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\bin\Debug\net6.0\Lanche - 1038.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\bin\Debug\net6.0\Lanche - 1038.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\bin\Debug\net6.0\Lanche - 1038.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\bin\Debug\net6.0\Lanche - 1038.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\obj\Debug\net6.0\Lanche - 1038.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\obj\Debug\net6.0\Lanche - 1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\obj\Debug\net6.0\Lanche - 1038.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\obj\Debug\net6.0\Lanche - 1038.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\obj\Debug\net6.0\Lanche - 1038.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\obj\Debug\net6.0\Lanche - 1038.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\obj\Debug\net6.0\refint\Lanche - 1038.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\obj\Debug\net6.0\Lanche - 1038.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\obj\Debug\net6.0\Lanche - 1038.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Lanche - 1038\Lanche - 1038\obj\Debug\net6.0\ref\Lanche - 1038.dll

@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\bin\Debug\net6.0\DividindoXPorY - 1116.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\bin\Debug\net6.0\DividindoXPorY - 1116.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\bin\Debug\net6.0\DividindoXPorY - 1116.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\bin\Debug\net6.0\DividindoXPorY - 1116.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\bin\Debug\net6.0\DividindoXPorY - 1116.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\obj\Debug\net6.0\DividindoXPorY - 1116.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\obj\Debug\net6.0\DividindoXPorY - 1116.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\obj\Debug\net6.0\DividindoXPorY - 1116.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\obj\Debug\net6.0\DividindoXPorY - 1116.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\obj\Debug\net6.0\DividindoXPorY - 1116.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\obj\Debug\net6.0\DividindoXPorY - 1116.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\obj\Debug\net6.0\refint\DividindoXPorY - 1116.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\obj\Debug\net6.0\DividindoXPorY - 1116.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\obj\Debug\net6.0\DividindoXPorY - 1116.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\DividindoXPorY - 1116\DividindoXPorY - 1116\obj\Debug\net6.0\ref\DividindoXPorY - 1116.dll

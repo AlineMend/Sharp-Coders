@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpostoDeRenda - 1051", "ImpostoDeRenda - 1051\ImpostoDeRenda - 1051.csproj", "{0EE95B68-AA03-4E5C-B983-775ACAE5E642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE95B68-AA03-4E5C-B983-775ACAE5E642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE95B68-AA03-4E5C-B983-775ACAE5E642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE95B68-AA03-4E5C-B983-775ACAE5E642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE95B68-AA03-4E5C-B983-775ACAE5E642}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EE58F13-1E2A-4942-9869-1AC66C9B1EBC}
+	EndGlobalSection
+EndGlobal

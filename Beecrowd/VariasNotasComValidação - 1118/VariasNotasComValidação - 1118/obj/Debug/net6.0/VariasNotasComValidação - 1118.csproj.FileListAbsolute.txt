@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\bin\Debug\net6.0\VariasNotasComValidação - 1118.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\bin\Debug\net6.0\VariasNotasComValidação - 1118.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\bin\Debug\net6.0\VariasNotasComValidação - 1118.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\bin\Debug\net6.0\VariasNotasComValidação - 1118.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\bin\Debug\net6.0\VariasNotasComValidação - 1118.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\obj\Debug\net6.0\VariasNotasComValidação - 1118.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\obj\Debug\net6.0\VariasNotasComValidação - 1118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\obj\Debug\net6.0\VariasNotasComValidação - 1118.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\obj\Debug\net6.0\VariasNotasComValidação - 1118.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\obj\Debug\net6.0\VariasNotasComValidação - 1118.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\obj\Debug\net6.0\VariasNotasComValidação - 1118.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\obj\Debug\net6.0\refint\VariasNotasComValidação - 1118.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\obj\Debug\net6.0\VariasNotasComValidação - 1118.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\obj\Debug\net6.0\VariasNotasComValidação - 1118.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\VariasNotasComValidação - 1118\VariasNotasComValidação - 1118\obj\Debug\net6.0\ref\VariasNotasComValidação - 1118.dll

@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\bin\Debug\net6.0\Salario - 1008.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\bin\Debug\net6.0\Salario - 1008.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\bin\Debug\net6.0\Salario - 1008.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\bin\Debug\net6.0\Salario - 1008.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\bin\Debug\net6.0\Salario - 1008.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\obj\Debug\net6.0\Salario - 1008.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\obj\Debug\net6.0\Salario - 1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\obj\Debug\net6.0\Salario - 1008.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\obj\Debug\net6.0\Salario - 1008.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\obj\Debug\net6.0\Salario - 1008.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\obj\Debug\net6.0\Salario - 1008.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\obj\Debug\net6.0\refint\Salario - 1008.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\obj\Debug\net6.0\Salario - 1008.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\obj\Debug\net6.0\Salario - 1008.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario - 1008\Salario - 1008\obj\Debug\net6.0\ref\Salario - 1008.dll

@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\bin\Debug\net6.0\Mês - 1052.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\bin\Debug\net6.0\Mês - 1052.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\bin\Debug\net6.0\Mês - 1052.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\bin\Debug\net6.0\Mês - 1052.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\bin\Debug\net6.0\Mês - 1052.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\obj\Debug\net6.0\Mês - 1052.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\obj\Debug\net6.0\Mês - 1052.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\obj\Debug\net6.0\Mês - 1052.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\obj\Debug\net6.0\Mês - 1052.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\obj\Debug\net6.0\Mês - 1052.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\obj\Debug\net6.0\Mês - 1052.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\obj\Debug\net6.0\refint\Mês - 1052.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\obj\Debug\net6.0\Mês - 1052.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\obj\Debug\net6.0\Mês - 1052.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Mês - 1052\Mês - 1052\obj\Debug\net6.0\ref\Mês - 1052.dll

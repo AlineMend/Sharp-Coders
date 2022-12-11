@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\bin\Debug\net6.0\QuadradoDePares - 1073.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\bin\Debug\net6.0\QuadradoDePares - 1073.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\bin\Debug\net6.0\QuadradoDePares - 1073.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\bin\Debug\net6.0\QuadradoDePares - 1073.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\bin\Debug\net6.0\QuadradoDePares - 1073.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\obj\Debug\net6.0\QuadradoDePares - 1073.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\obj\Debug\net6.0\QuadradoDePares - 1073.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\obj\Debug\net6.0\QuadradoDePares - 1073.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\obj\Debug\net6.0\QuadradoDePares - 1073.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\obj\Debug\net6.0\QuadradoDePares - 1073.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\obj\Debug\net6.0\QuadradoDePares - 1073.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\obj\Debug\net6.0\refint\QuadradoDePares - 1073.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\obj\Debug\net6.0\QuadradoDePares - 1073.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\obj\Debug\net6.0\QuadradoDePares - 1073.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\QuadradoDePares - 1073\QuadradoDePares - 1073\obj\Debug\net6.0\ref\QuadradoDePares - 1073.dll

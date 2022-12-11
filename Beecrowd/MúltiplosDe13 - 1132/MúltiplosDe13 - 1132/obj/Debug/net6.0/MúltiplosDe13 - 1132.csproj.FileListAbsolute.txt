@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\bin\Debug\net6.0\MúltiplosDe13 - 1132.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\bin\Debug\net6.0\MúltiplosDe13 - 1132.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\bin\Debug\net6.0\MúltiplosDe13 - 1132.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\bin\Debug\net6.0\MúltiplosDe13 - 1132.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\bin\Debug\net6.0\MúltiplosDe13 - 1132.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\obj\Debug\net6.0\MúltiplosDe13 - 1132.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\obj\Debug\net6.0\MúltiplosDe13 - 1132.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\obj\Debug\net6.0\MúltiplosDe13 - 1132.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\obj\Debug\net6.0\MúltiplosDe13 - 1132.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\obj\Debug\net6.0\MúltiplosDe13 - 1132.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\obj\Debug\net6.0\MúltiplosDe13 - 1132.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\obj\Debug\net6.0\refint\MúltiplosDe13 - 1132.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\obj\Debug\net6.0\MúltiplosDe13 - 1132.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\obj\Debug\net6.0\MúltiplosDe13 - 1132.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\MúltiplosDe13 - 1132\MúltiplosDe13 - 1132\obj\Debug\net6.0\ref\MúltiplosDe13 - 1132.dll

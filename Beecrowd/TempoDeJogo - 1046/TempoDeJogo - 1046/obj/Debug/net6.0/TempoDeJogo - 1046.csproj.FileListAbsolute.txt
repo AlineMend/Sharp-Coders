@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\bin\Debug\net6.0\TempoDeJogo - 1046.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\bin\Debug\net6.0\TempoDeJogo - 1046.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\bin\Debug\net6.0\TempoDeJogo - 1046.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\bin\Debug\net6.0\TempoDeJogo - 1046.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\bin\Debug\net6.0\TempoDeJogo - 1046.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\obj\Debug\net6.0\TempoDeJogo - 1046.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\obj\Debug\net6.0\TempoDeJogo - 1046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\obj\Debug\net6.0\TempoDeJogo - 1046.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\obj\Debug\net6.0\TempoDeJogo - 1046.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\obj\Debug\net6.0\TempoDeJogo - 1046.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\obj\Debug\net6.0\TempoDeJogo - 1046.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\obj\Debug\net6.0\refint\TempoDeJogo - 1046.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\obj\Debug\net6.0\TempoDeJogo - 1046.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\obj\Debug\net6.0\TempoDeJogo - 1046.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\TempoDeJogo - 1046\TempoDeJogo - 1046\obj\Debug\net6.0\ref\TempoDeJogo - 1046.dll

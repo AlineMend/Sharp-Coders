@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\bin\Debug\net6.0\Area do Circulo - 1002.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\bin\Debug\net6.0\Area do Circulo - 1002.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\bin\Debug\net6.0\Area do Circulo - 1002.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\bin\Debug\net6.0\Area do Circulo - 1002.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\bin\Debug\net6.0\Area do Circulo - 1002.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\obj\Debug\net6.0\Area do Circulo - 1002.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\obj\Debug\net6.0\Area do Circulo - 1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\obj\Debug\net6.0\Area do Circulo - 1002.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\obj\Debug\net6.0\Area do Circulo - 1002.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\obj\Debug\net6.0\Area do Circulo - 1002.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\obj\Debug\net6.0\Area do Circulo - 1002.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\obj\Debug\net6.0\refint\Area do Circulo - 1002.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\obj\Debug\net6.0\Area do Circulo - 1002.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\obj\Debug\net6.0\Area do Circulo - 1002.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area do Circulo - 1002\Area do Circulo - 1002\obj\Debug\net6.0\ref\Area do Circulo - 1002.dll

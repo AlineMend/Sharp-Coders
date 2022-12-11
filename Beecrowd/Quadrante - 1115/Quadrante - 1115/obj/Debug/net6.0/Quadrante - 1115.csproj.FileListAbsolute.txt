@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\bin\Debug\net6.0\Quadrante - 1115.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\bin\Debug\net6.0\Quadrante - 1115.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\bin\Debug\net6.0\Quadrante - 1115.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\bin\Debug\net6.0\Quadrante - 1115.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\bin\Debug\net6.0\Quadrante - 1115.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\obj\Debug\net6.0\Quadrante - 1115.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\obj\Debug\net6.0\Quadrante - 1115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\obj\Debug\net6.0\Quadrante - 1115.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\obj\Debug\net6.0\Quadrante - 1115.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\obj\Debug\net6.0\Quadrante - 1115.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\obj\Debug\net6.0\Quadrante - 1115.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\obj\Debug\net6.0\refint\Quadrante - 1115.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\obj\Debug\net6.0\Quadrante - 1115.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\obj\Debug\net6.0\Quadrante - 1115.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Quadrante - 1115\Quadrante - 1115\obj\Debug\net6.0\ref\Quadrante - 1115.dll

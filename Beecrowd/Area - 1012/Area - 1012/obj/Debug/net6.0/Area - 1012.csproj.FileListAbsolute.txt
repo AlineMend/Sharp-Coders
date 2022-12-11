@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\bin\Debug\net6.0\Area - 1012.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\bin\Debug\net6.0\Area - 1012.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\bin\Debug\net6.0\Area - 1012.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\bin\Debug\net6.0\Area - 1012.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\bin\Debug\net6.0\Area - 1012.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\obj\Debug\net6.0\Area - 1012.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\obj\Debug\net6.0\Area - 1012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\obj\Debug\net6.0\Area - 1012.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\obj\Debug\net6.0\Area - 1012.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\obj\Debug\net6.0\Area - 1012.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\obj\Debug\net6.0\Area - 1012.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\obj\Debug\net6.0\refint\Area - 1012.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\obj\Debug\net6.0\Area - 1012.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\obj\Debug\net6.0\Area - 1012.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Area - 1012\Area - 1012\obj\Debug\net6.0\ref\Area - 1012.dll

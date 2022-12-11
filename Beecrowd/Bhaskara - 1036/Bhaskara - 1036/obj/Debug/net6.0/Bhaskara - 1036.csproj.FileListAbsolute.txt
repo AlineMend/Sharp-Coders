@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\bin\Debug\net6.0\Bhaskara - 1036.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\bin\Debug\net6.0\Bhaskara - 1036.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\bin\Debug\net6.0\Bhaskara - 1036.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\bin\Debug\net6.0\Bhaskara - 1036.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\bin\Debug\net6.0\Bhaskara - 1036.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\obj\Debug\net6.0\Bhaskara - 1036.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\obj\Debug\net6.0\Bhaskara - 1036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\obj\Debug\net6.0\Bhaskara - 1036.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\obj\Debug\net6.0\Bhaskara - 1036.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\obj\Debug\net6.0\Bhaskara - 1036.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\obj\Debug\net6.0\Bhaskara - 1036.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\obj\Debug\net6.0\refint\Bhaskara - 1036.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\obj\Debug\net6.0\Bhaskara - 1036.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\obj\Debug\net6.0\Bhaskara - 1036.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Bhaskara - 1036\Bhaskara - 1036\obj\Debug\net6.0\ref\Bhaskara - 1036.dll

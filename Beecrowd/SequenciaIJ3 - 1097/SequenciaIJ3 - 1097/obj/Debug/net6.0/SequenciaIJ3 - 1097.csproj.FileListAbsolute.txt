@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\bin\Debug\net6.0\SequenciaIJ3 - 1097.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\bin\Debug\net6.0\SequenciaIJ3 - 1097.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\bin\Debug\net6.0\SequenciaIJ3 - 1097.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\bin\Debug\net6.0\SequenciaIJ3 - 1097.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\bin\Debug\net6.0\SequenciaIJ3 - 1097.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\obj\Debug\net6.0\SequenciaIJ3 - 1097.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\obj\Debug\net6.0\SequenciaIJ3 - 1097.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\obj\Debug\net6.0\SequenciaIJ3 - 1097.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\obj\Debug\net6.0\SequenciaIJ3 - 1097.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\obj\Debug\net6.0\SequenciaIJ3 - 1097.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\obj\Debug\net6.0\SequenciaIJ3 - 1097.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\obj\Debug\net6.0\refint\SequenciaIJ3 - 1097.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\obj\Debug\net6.0\SequenciaIJ3 - 1097.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\obj\Debug\net6.0\SequenciaIJ3 - 1097.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequenciaIJ3 - 1097\SequenciaIJ3 - 1097\obj\Debug\net6.0\ref\SequenciaIJ3 - 1097.dll

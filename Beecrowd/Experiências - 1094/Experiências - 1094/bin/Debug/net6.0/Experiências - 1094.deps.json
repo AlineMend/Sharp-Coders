@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Experiências - 1094/1.0.0": {
+        "runtime": {
+          "Experiências - 1094.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Experiências - 1094/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

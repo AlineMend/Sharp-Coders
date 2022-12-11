@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\bin\Debug\net6.0\Salario com Bonus - 1009.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\bin\Debug\net6.0\Salario com Bonus - 1009.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\bin\Debug\net6.0\Salario com Bonus - 1009.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\bin\Debug\net6.0\Salario com Bonus - 1009.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\bin\Debug\net6.0\Salario com Bonus - 1009.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\obj\Debug\net6.0\Salario com Bonus - 1009.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\obj\Debug\net6.0\Salario com Bonus - 1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\obj\Debug\net6.0\Salario com Bonus - 1009.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\obj\Debug\net6.0\Salario com Bonus - 1009.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\obj\Debug\net6.0\Salario com Bonus - 1009.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\obj\Debug\net6.0\Salario com Bonus - 1009.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\obj\Debug\net6.0\refint\Salario com Bonus - 1009.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\obj\Debug\net6.0\Salario com Bonus - 1009.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\obj\Debug\net6.0\Salario com Bonus - 1009.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Salario com Bonus - 1009\Salario com Bonus - 1009\obj\Debug\net6.0\ref\Salario com Bonus - 1009.dll

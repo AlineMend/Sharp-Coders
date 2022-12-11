@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\bin\Debug\net6.0\Distancia entre dois pontos - 1015.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\bin\Debug\net6.0\Distancia entre dois pontos - 1015.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\bin\Debug\net6.0\Distancia entre dois pontos - 1015.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\bin\Debug\net6.0\Distancia entre dois pontos - 1015.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\bin\Debug\net6.0\Distancia entre dois pontos - 1015.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\obj\Debug\net6.0\Distancia entre dois pontos - 1015.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\obj\Debug\net6.0\Distancia entre dois pontos - 1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\obj\Debug\net6.0\Distancia entre dois pontos - 1015.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\obj\Debug\net6.0\Distancia entre dois pontos - 1015.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\obj\Debug\net6.0\Distancia entre dois pontos - 1015.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\obj\Debug\net6.0\Distancia entre dois pontos - 1015.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\obj\Debug\net6.0\refint\Distancia entre dois pontos - 1015.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\obj\Debug\net6.0\Distancia entre dois pontos - 1015.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\obj\Debug\net6.0\Distancia entre dois pontos - 1015.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Distancia entre dois pontos - 1015\Distancia entre dois pontos - 1015\obj\Debug\net6.0\ref\Distancia entre dois pontos - 1015.dll

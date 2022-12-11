@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TempoDeJogo - 1046/1.0.0": {
+        "runtime": {
+          "TempoDeJogo - 1046.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TempoDeJogo - 1046/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

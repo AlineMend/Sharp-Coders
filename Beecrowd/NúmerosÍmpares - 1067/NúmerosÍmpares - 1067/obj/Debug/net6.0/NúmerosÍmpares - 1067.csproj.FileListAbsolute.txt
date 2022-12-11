@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\bin\Debug\net6.0\NúmerosÍmpares - 1067.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\bin\Debug\net6.0\NúmerosÍmpares - 1067.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\bin\Debug\net6.0\NúmerosÍmpares - 1067.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\bin\Debug\net6.0\NúmerosÍmpares - 1067.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\bin\Debug\net6.0\NúmerosÍmpares - 1067.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\obj\Debug\net6.0\NúmerosÍmpares - 1067.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\obj\Debug\net6.0\NúmerosÍmpares - 1067.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\obj\Debug\net6.0\NúmerosÍmpares - 1067.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\obj\Debug\net6.0\NúmerosÍmpares - 1067.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\obj\Debug\net6.0\NúmerosÍmpares - 1067.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\obj\Debug\net6.0\NúmerosÍmpares - 1067.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\obj\Debug\net6.0\refint\NúmerosÍmpares - 1067.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\obj\Debug\net6.0\NúmerosÍmpares - 1067.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\obj\Debug\net6.0\NúmerosÍmpares - 1067.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosÍmpares - 1067\NúmerosÍmpares - 1067\obj\Debug\net6.0\ref\NúmerosÍmpares - 1067.dll

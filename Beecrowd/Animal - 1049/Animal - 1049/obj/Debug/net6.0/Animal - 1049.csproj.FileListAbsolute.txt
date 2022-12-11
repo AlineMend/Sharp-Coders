@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\bin\Debug\net6.0\Animal - 1049.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\bin\Debug\net6.0\Animal - 1049.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\bin\Debug\net6.0\Animal - 1049.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\bin\Debug\net6.0\Animal - 1049.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\bin\Debug\net6.0\Animal - 1049.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\obj\Debug\net6.0\Animal - 1049.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\obj\Debug\net6.0\Animal - 1049.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\obj\Debug\net6.0\Animal - 1049.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\obj\Debug\net6.0\Animal - 1049.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\obj\Debug\net6.0\Animal - 1049.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\obj\Debug\net6.0\Animal - 1049.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\obj\Debug\net6.0\refint\Animal - 1049.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\obj\Debug\net6.0\Animal - 1049.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\obj\Debug\net6.0\Animal - 1049.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Animal - 1049\Animal - 1049\obj\Debug\net6.0\ref\Animal - 1049.dll

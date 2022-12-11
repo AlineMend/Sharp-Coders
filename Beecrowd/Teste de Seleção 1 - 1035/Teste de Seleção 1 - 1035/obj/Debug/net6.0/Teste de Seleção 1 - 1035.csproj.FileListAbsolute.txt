@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\bin\Debug\net6.0\Teste de Seleção 1 - 1035.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\bin\Debug\net6.0\Teste de Seleção 1 - 1035.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\bin\Debug\net6.0\Teste de Seleção 1 - 1035.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\bin\Debug\net6.0\Teste de Seleção 1 - 1035.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\bin\Debug\net6.0\Teste de Seleção 1 - 1035.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\obj\Debug\net6.0\Teste de Seleção 1 - 1035.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\obj\Debug\net6.0\Teste de Seleção 1 - 1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\obj\Debug\net6.0\Teste de Seleção 1 - 1035.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\obj\Debug\net6.0\Teste de Seleção 1 - 1035.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\obj\Debug\net6.0\Teste de Seleção 1 - 1035.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\obj\Debug\net6.0\Teste de Seleção 1 - 1035.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\obj\Debug\net6.0\refint\Teste de Seleção 1 - 1035.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\obj\Debug\net6.0\Teste de Seleção 1 - 1035.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\obj\Debug\net6.0\Teste de Seleção 1 - 1035.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Teste de Seleção 1 - 1035\Teste de Seleção 1 - 1035\obj\Debug\net6.0\ref\Teste de Seleção 1 - 1035.dll

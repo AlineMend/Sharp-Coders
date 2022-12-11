@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\bin\Debug\net6.0\SomaImparesConsecutivosI - 1071.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\bin\Debug\net6.0\SomaImparesConsecutivosI - 1071.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\bin\Debug\net6.0\SomaImparesConsecutivosI - 1071.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\bin\Debug\net6.0\SomaImparesConsecutivosI - 1071.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\bin\Debug\net6.0\SomaImparesConsecutivosI - 1071.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\obj\Debug\net6.0\SomaImparesConsecutivosI - 1071.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\obj\Debug\net6.0\SomaImparesConsecutivosI - 1071.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\obj\Debug\net6.0\SomaImparesConsecutivosI - 1071.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\obj\Debug\net6.0\SomaImparesConsecutivosI - 1071.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\obj\Debug\net6.0\SomaImparesConsecutivosI - 1071.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\obj\Debug\net6.0\SomaImparesConsecutivosI - 1071.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\obj\Debug\net6.0\refint\SomaImparesConsecutivosI - 1071.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\obj\Debug\net6.0\SomaImparesConsecutivosI - 1071.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\obj\Debug\net6.0\SomaImparesConsecutivosI - 1071.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaImparesConsecutivosI - 1071\SomaImparesConsecutivosI - 1071\obj\Debug\net6.0\ref\SomaImparesConsecutivosI - 1071.dll

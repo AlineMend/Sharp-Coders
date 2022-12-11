@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\bin\Debug\net6.0\Triangulo - 1043.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\bin\Debug\net6.0\Triangulo - 1043.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\bin\Debug\net6.0\Triangulo - 1043.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\bin\Debug\net6.0\Triangulo - 1043.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\bin\Debug\net6.0\Triangulo - 1043.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\obj\Debug\net6.0\Triangulo - 1043.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\obj\Debug\net6.0\Triangulo - 1043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\obj\Debug\net6.0\Triangulo - 1043.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\obj\Debug\net6.0\Triangulo - 1043.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\obj\Debug\net6.0\Triangulo - 1043.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\obj\Debug\net6.0\Triangulo - 1043.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\obj\Debug\net6.0\refint\Triangulo - 1043.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\obj\Debug\net6.0\Triangulo - 1043.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\obj\Debug\net6.0\Triangulo - 1043.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Triangulo - 1043\Triangulo - 1043\obj\Debug\net6.0\ref\Triangulo - 1043.dll

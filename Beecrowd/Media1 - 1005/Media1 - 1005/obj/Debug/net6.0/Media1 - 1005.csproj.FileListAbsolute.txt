@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\bin\Debug\net6.0\Media1 - 1005.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\bin\Debug\net6.0\Media1 - 1005.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\bin\Debug\net6.0\Media1 - 1005.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\bin\Debug\net6.0\Media1 - 1005.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\bin\Debug\net6.0\Media1 - 1005.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\obj\Debug\net6.0\Media1 - 1005.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\obj\Debug\net6.0\Media1 - 1005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\obj\Debug\net6.0\Media1 - 1005.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\obj\Debug\net6.0\Media1 - 1005.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\obj\Debug\net6.0\Media1 - 1005.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\obj\Debug\net6.0\Media1 - 1005.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\obj\Debug\net6.0\refint\Media1 - 1005.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\obj\Debug\net6.0\Media1 - 1005.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\obj\Debug\net6.0\Media1 - 1005.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Media1 - 1005\Media1 - 1005\obj\Debug\net6.0\ref\Media1 - 1005.dll

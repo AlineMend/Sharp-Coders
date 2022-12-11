@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\bin\Debug\net6.0\SomaÍmparesConsecutivosII - 1099.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\bin\Debug\net6.0\SomaÍmparesConsecutivosII - 1099.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\bin\Debug\net6.0\SomaÍmparesConsecutivosII - 1099.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\bin\Debug\net6.0\SomaÍmparesConsecutivosII - 1099.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\bin\Debug\net6.0\SomaÍmparesConsecutivosII - 1099.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\obj\Debug\net6.0\SomaÍmparesConsecutivosII - 1099.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\obj\Debug\net6.0\SomaÍmparesConsecutivosII - 1099.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\obj\Debug\net6.0\SomaÍmparesConsecutivosII - 1099.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\obj\Debug\net6.0\SomaÍmparesConsecutivosII - 1099.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\obj\Debug\net6.0\SomaÍmparesConsecutivosII - 1099.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\obj\Debug\net6.0\SomaÍmparesConsecutivosII - 1099.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\obj\Debug\net6.0\refint\SomaÍmparesConsecutivosII - 1099.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\obj\Debug\net6.0\SomaÍmparesConsecutivosII - 1099.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\obj\Debug\net6.0\SomaÍmparesConsecutivosII - 1099.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SomaÍmparesConsecutivosII - 1099\SomaÍmparesConsecutivosII - 1099\obj\Debug\net6.0\ref\SomaÍmparesConsecutivosII - 1099.dll

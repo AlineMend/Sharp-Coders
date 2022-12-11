@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\bin\Debug\net6.0\Soma simples - 1003.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\bin\Debug\net6.0\Soma simples - 1003.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\bin\Debug\net6.0\Soma simples - 1003.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\bin\Debug\net6.0\Soma simples - 1003.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\bin\Debug\net6.0\Soma simples - 1003.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\obj\Debug\net6.0\Soma simples - 1003.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\obj\Debug\net6.0\Soma simples - 1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\obj\Debug\net6.0\Soma simples - 1003.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\obj\Debug\net6.0\Soma simples - 1003.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\obj\Debug\net6.0\Soma simples - 1003.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\obj\Debug\net6.0\Soma simples - 1003.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\obj\Debug\net6.0\refint\Soma simples - 1003.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\obj\Debug\net6.0\Soma simples - 1003.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\obj\Debug\net6.0\Soma simples - 1003.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Soma simples - 1003\Soma simples - 1003\obj\Debug\net6.0\ref\Soma simples - 1003.dll

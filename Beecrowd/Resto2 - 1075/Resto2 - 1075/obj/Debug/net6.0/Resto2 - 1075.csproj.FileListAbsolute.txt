@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\bin\Debug\net6.0\Resto2 - 1075.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\bin\Debug\net6.0\Resto2 - 1075.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\bin\Debug\net6.0\Resto2 - 1075.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\bin\Debug\net6.0\Resto2 - 1075.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\bin\Debug\net6.0\Resto2 - 1075.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\obj\Debug\net6.0\Resto2 - 1075.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\obj\Debug\net6.0\Resto2 - 1075.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\obj\Debug\net6.0\Resto2 - 1075.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\obj\Debug\net6.0\Resto2 - 1075.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\obj\Debug\net6.0\Resto2 - 1075.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\obj\Debug\net6.0\Resto2 - 1075.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\obj\Debug\net6.0\refint\Resto2 - 1075.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\obj\Debug\net6.0\Resto2 - 1075.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\obj\Debug\net6.0\Resto2 - 1075.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Resto2 - 1075\Resto2 - 1075\obj\Debug\net6.0\ref\Resto2 - 1075.dll

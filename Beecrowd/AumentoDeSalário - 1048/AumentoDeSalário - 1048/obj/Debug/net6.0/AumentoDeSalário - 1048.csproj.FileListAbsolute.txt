@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\bin\Debug\net6.0\AumentoDeSalário - 1048.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\bin\Debug\net6.0\AumentoDeSalário - 1048.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\bin\Debug\net6.0\AumentoDeSalário - 1048.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\bin\Debug\net6.0\AumentoDeSalário - 1048.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\bin\Debug\net6.0\AumentoDeSalário - 1048.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\obj\Debug\net6.0\AumentoDeSalário - 1048.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\obj\Debug\net6.0\AumentoDeSalário - 1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\obj\Debug\net6.0\AumentoDeSalário - 1048.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\obj\Debug\net6.0\AumentoDeSalário - 1048.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\obj\Debug\net6.0\AumentoDeSalário - 1048.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\obj\Debug\net6.0\AumentoDeSalário - 1048.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\obj\Debug\net6.0\refint\AumentoDeSalário - 1048.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\obj\Debug\net6.0\AumentoDeSalário - 1048.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\obj\Debug\net6.0\AumentoDeSalário - 1048.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\AumentoDeSalário - 1048\AumentoDeSalário - 1048\obj\Debug\net6.0\ref\AumentoDeSalário - 1048.dll

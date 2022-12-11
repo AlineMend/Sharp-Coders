@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SequenciaIJ3 - 1097/1.0.0": {
+        "runtime": {
+          "SequenciaIJ3 - 1097.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SequenciaIJ3 - 1097/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

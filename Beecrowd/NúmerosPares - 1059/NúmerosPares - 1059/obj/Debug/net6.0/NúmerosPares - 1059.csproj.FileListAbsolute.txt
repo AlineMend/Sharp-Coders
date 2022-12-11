@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\bin\Debug\net6.0\NúmerosPares - 1059.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\bin\Debug\net6.0\NúmerosPares - 1059.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\bin\Debug\net6.0\NúmerosPares - 1059.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\bin\Debug\net6.0\NúmerosPares - 1059.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\bin\Debug\net6.0\NúmerosPares - 1059.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\obj\Debug\net6.0\NúmerosPares - 1059.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\obj\Debug\net6.0\NúmerosPares - 1059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\obj\Debug\net6.0\NúmerosPares - 1059.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\obj\Debug\net6.0\NúmerosPares - 1059.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\obj\Debug\net6.0\NúmerosPares - 1059.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\obj\Debug\net6.0\NúmerosPares - 1059.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\obj\Debug\net6.0\refint\NúmerosPares - 1059.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\obj\Debug\net6.0\NúmerosPares - 1059.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\obj\Debug\net6.0\NúmerosPares - 1059.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\NúmerosPares - 1059\NúmerosPares - 1059\obj\Debug\net6.0\ref\NúmerosPares - 1059.dll

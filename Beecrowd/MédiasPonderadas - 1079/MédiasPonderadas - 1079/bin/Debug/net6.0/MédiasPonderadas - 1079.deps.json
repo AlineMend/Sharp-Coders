@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MédiasPonderadas - 1079/1.0.0": {
+        "runtime": {
+          "MédiasPonderadas - 1079.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MédiasPonderadas - 1079/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\bin\Debug\net6.0\Tabuada -  1078.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\bin\Debug\net6.0\Tabuada -  1078.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\bin\Debug\net6.0\Tabuada -  1078.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\bin\Debug\net6.0\Tabuada -  1078.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\bin\Debug\net6.0\Tabuada -  1078.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\obj\Debug\net6.0\Tabuada -  1078.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\obj\Debug\net6.0\Tabuada -  1078.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\obj\Debug\net6.0\Tabuada -  1078.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\obj\Debug\net6.0\Tabuada -  1078.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\obj\Debug\net6.0\Tabuada -  1078.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\obj\Debug\net6.0\Tabuada -  1078.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\obj\Debug\net6.0\refint\Tabuada -  1078.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\obj\Debug\net6.0\Tabuada -  1078.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\obj\Debug\net6.0\Tabuada -  1078.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Tabuada -  1078\Tabuada -  1078\obj\Debug\net6.0\ref\Tabuada -  1078.dll

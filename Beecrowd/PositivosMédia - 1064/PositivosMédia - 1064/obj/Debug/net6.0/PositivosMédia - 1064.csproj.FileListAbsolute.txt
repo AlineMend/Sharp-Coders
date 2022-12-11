@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\bin\Debug\net6.0\PositivosMédia - 1064.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\bin\Debug\net6.0\PositivosMédia - 1064.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\bin\Debug\net6.0\PositivosMédia - 1064.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\bin\Debug\net6.0\PositivosMédia - 1064.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\bin\Debug\net6.0\PositivosMédia - 1064.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\obj\Debug\net6.0\PositivosMédia - 1064.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\obj\Debug\net6.0\PositivosMédia - 1064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\obj\Debug\net6.0\PositivosMédia - 1064.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\obj\Debug\net6.0\PositivosMédia - 1064.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\obj\Debug\net6.0\PositivosMédia - 1064.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\obj\Debug\net6.0\PositivosMédia - 1064.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\obj\Debug\net6.0\refint\PositivosMédia - 1064.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\obj\Debug\net6.0\PositivosMédia - 1064.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\obj\Debug\net6.0\PositivosMédia - 1064.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\PositivosMédia - 1064\PositivosMédia - 1064\obj\Debug\net6.0\ref\PositivosMédia - 1064.dll

@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\bin\Debug\net6.0\CalculoSimples - 1010.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\bin\Debug\net6.0\CalculoSimples - 1010.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\bin\Debug\net6.0\CalculoSimples - 1010.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\bin\Debug\net6.0\CalculoSimples - 1010.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\bin\Debug\net6.0\CalculoSimples - 1010.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\obj\Debug\net6.0\CalculoSimples - 1010.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\obj\Debug\net6.0\CalculoSimples - 1010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\obj\Debug\net6.0\CalculoSimples - 1010.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\obj\Debug\net6.0\CalculoSimples - 1010.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\obj\Debug\net6.0\CalculoSimples - 1010.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\obj\Debug\net6.0\CalculoSimples - 1010.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\obj\Debug\net6.0\refint\CalculoSimples - 1010.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\obj\Debug\net6.0\CalculoSimples - 1010.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\obj\Debug\net6.0\CalculoSimples - 1010.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\CalculoSimples - 1010\CalculoSimples - 1010\obj\Debug\net6.0\ref\CalculoSimples - 1010.dll

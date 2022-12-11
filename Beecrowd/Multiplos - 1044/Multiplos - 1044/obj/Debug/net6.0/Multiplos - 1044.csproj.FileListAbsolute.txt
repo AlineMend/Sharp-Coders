@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\bin\Debug\net6.0\Multiplos - 1044.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\bin\Debug\net6.0\Multiplos - 1044.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\bin\Debug\net6.0\Multiplos - 1044.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\bin\Debug\net6.0\Multiplos - 1044.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\bin\Debug\net6.0\Multiplos - 1044.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\obj\Debug\net6.0\Multiplos - 1044.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\obj\Debug\net6.0\Multiplos - 1044.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\obj\Debug\net6.0\Multiplos - 1044.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\obj\Debug\net6.0\Multiplos - 1044.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\obj\Debug\net6.0\Multiplos - 1044.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\obj\Debug\net6.0\Multiplos - 1044.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\obj\Debug\net6.0\refint\Multiplos - 1044.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\obj\Debug\net6.0\Multiplos - 1044.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\obj\Debug\net6.0\Multiplos - 1044.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Multiplos - 1044\Multiplos - 1044\obj\Debug\net6.0\ref\Multiplos - 1044.dll

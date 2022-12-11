@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\bin\Debug\net6.0\SequênciaNúmerosSoma - 1101.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\bin\Debug\net6.0\SequênciaNúmerosSoma - 1101.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\bin\Debug\net6.0\SequênciaNúmerosSoma - 1101.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\bin\Debug\net6.0\SequênciaNúmerosSoma - 1101.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\bin\Debug\net6.0\SequênciaNúmerosSoma - 1101.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\obj\Debug\net6.0\SequênciaNúmerosSoma - 1101.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\obj\Debug\net6.0\SequênciaNúmerosSoma - 1101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\obj\Debug\net6.0\SequênciaNúmerosSoma - 1101.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\obj\Debug\net6.0\SequênciaNúmerosSoma - 1101.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\obj\Debug\net6.0\SequênciaNúmerosSoma - 1101.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\obj\Debug\net6.0\SequênciaNúmerosSoma - 1101.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\obj\Debug\net6.0\refint\SequênciaNúmerosSoma - 1101.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\obj\Debug\net6.0\SequênciaNúmerosSoma - 1101.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\obj\Debug\net6.0\SequênciaNúmerosSoma - 1101.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SequênciaNúmerosSoma - 1101\SequênciaNúmerosSoma - 1101\obj\Debug\net6.0\ref\SequênciaNúmerosSoma - 1101.dll

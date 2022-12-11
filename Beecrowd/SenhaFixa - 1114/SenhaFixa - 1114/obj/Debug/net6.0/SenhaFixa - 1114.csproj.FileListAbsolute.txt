@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\bin\Debug\net6.0\SenhaFixa - 1114.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\bin\Debug\net6.0\SenhaFixa - 1114.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\bin\Debug\net6.0\SenhaFixa - 1114.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\bin\Debug\net6.0\SenhaFixa - 1114.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\bin\Debug\net6.0\SenhaFixa - 1114.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\obj\Debug\net6.0\SenhaFixa - 1114.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\obj\Debug\net6.0\SenhaFixa - 1114.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\obj\Debug\net6.0\SenhaFixa - 1114.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\obj\Debug\net6.0\SenhaFixa - 1114.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\obj\Debug\net6.0\SenhaFixa - 1114.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\obj\Debug\net6.0\SenhaFixa - 1114.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\obj\Debug\net6.0\refint\SenhaFixa - 1114.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\obj\Debug\net6.0\SenhaFixa - 1114.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\obj\Debug\net6.0\SenhaFixa - 1114.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\SenhaFixa - 1114\SenhaFixa - 1114\obj\Debug\net6.0\ref\SenhaFixa - 1114.dll

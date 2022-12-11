@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\bin\Debug\net6.0\Grenais - 1131.exe
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\bin\Debug\net6.0\Grenais - 1131.deps.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\bin\Debug\net6.0\Grenais - 1131.runtimeconfig.json
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\bin\Debug\net6.0\Grenais - 1131.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\bin\Debug\net6.0\Grenais - 1131.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\obj\Debug\net6.0\Grenais - 1131.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\obj\Debug\net6.0\Grenais - 1131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\obj\Debug\net6.0\Grenais - 1131.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\obj\Debug\net6.0\Grenais - 1131.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\obj\Debug\net6.0\Grenais - 1131.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\obj\Debug\net6.0\Grenais - 1131.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\obj\Debug\net6.0\refint\Grenais - 1131.dll
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\obj\Debug\net6.0\Grenais - 1131.pdb
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\obj\Debug\net6.0\Grenais - 1131.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Área de Trabalho\Sharp Coders\Beecrowd\Grenais - 1131\Grenais - 1131\obj\Debug\net6.0\ref\Grenais - 1131.dll
