@@ -1,0 +1,15 @@
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\obj\Debug\net6.0\QuadradoMágico - 2407.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\obj\Debug\net6.0\QuadradoMágico - 2407.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\obj\Debug\net6.0\QuadradoMágico - 2407.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\obj\Debug\net6.0\QuadradoMágico - 2407.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\obj\Debug\net6.0\QuadradoMágico - 2407.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\bin\Debug\net6.0\QuadradoMágico - 2407.exe
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\bin\Debug\net6.0\QuadradoMágico - 2407.deps.json
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\bin\Debug\net6.0\QuadradoMágico - 2407.runtimeconfig.json
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\bin\Debug\net6.0\QuadradoMágico - 2407.dll
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\bin\Debug\net6.0\QuadradoMágico - 2407.pdb
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\obj\Debug\net6.0\QuadradoMágico - 2407.dll
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\obj\Debug\net6.0\refint\QuadradoMágico - 2407.dll
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\obj\Debug\net6.0\QuadradoMágico - 2407.pdb
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\obj\Debug\net6.0\QuadradoMágico - 2407.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Documentos\GitHub\Sharp-Coders\Beecrowd\QuadradoMágico - 2407\QuadradoMágico - 2407\obj\Debug\net6.0\ref\QuadradoMágico - 2407.dll

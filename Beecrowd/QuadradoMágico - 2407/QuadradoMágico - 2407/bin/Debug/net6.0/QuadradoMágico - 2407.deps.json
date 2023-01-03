@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "QuadradoMágico - 2407/1.0.0": {
+        "runtime": {
+          "QuadradoMágico - 2407.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuadradoMágico - 2407/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
