@@ -1,4 +1,6 @@
-﻿namespace ByteBank
+﻿using System.Linq;
+
+namespace ByteBank
 {
     public class Program
     {
@@ -14,7 +16,7 @@
             Console.Write("Digite a opção desejada: ");
         }
 
-        static void RegistrarNovoUsuario (List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
+        static void RegistrarNovoUsuario(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
         {
             Console.Write("Digite o CPF: ");
             cpfs.Add(Console.ReadLine());
@@ -25,7 +27,7 @@
             saldos.Add(0);
         }
 
-        static  void DeletarUsuario(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
+        static void DeletarUsuario(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
         {
             Console.Write("Digite o CPF: ");
             string cpfParaDeletar = Console.ReadLine();
@@ -78,9 +80,107 @@
             Console.WriteLine($"CPF = {cpfs[index]} | Titular = {titulares[index]} | Saldo = R${saldos[index]:F2}");
         }
 
-        static void ManipularConta((List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
+        static void ManipularConta(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
         {
-            static void Menu2()
+            int option;
+       
+            static void Transferir(List<string> cpfs, List<double> saldos)
+            {
+
+                Console.Write("Digite o CPF da conta de origem:");
+                string cpfContaOrigem = Console.ReadLine();
+                int indexContaOrigem = cpfs.FindIndex(cpf => cpf == cpfContaOrigem);
+
+                if (indexContaOrigem == -1)
+                {
+                    Console.WriteLine("Não foi possível transferir desta Conta");
+                    Console.WriteLine("MOTIVO: Conta não encontrada.");
+                }
+                else
+                {
+                    Console.Write("Digite o CPF da conta de destino: ");
+                    string cpfContaDestino = Console.ReadLine();
+                    int indexContaDestino = cpfs.FindIndex(cpf => cpf == cpfContaDestino);
+                    if (indexContaDestino == -1)
+                    {
+                        Console.WriteLine("Não foi possível transferir para esta Conta");
+                        Console.WriteLine("MOTIVO: Conta não encontrada.");
+                    }
+                    else
+                    {
+                        Console.Write(" Digite o valor a ser transferido:");
+                        double valorTrasferencia = double.Parse(Console.ReadLine());
+                        if (valorTrasferencia > saldos[indexContaOrigem])
+                        {
+                            Console.WriteLine("Não foi possível transferir desta Conta");
+                            Console.WriteLine("MOTIVO: Saldo insuficiente");
+                        }
+                        else
+                        {
+                            saldos[indexContaOrigem] -= valorTrasferencia;
+                            saldos[indexContaDestino] += valorTrasferencia;
+                            Console.WriteLine($"O novo saldo da conta de origem é R${saldos[indexContaOrigem]}");
+                            Console.WriteLine($"O novo saldo da conta de destino é R${saldos[indexContaDestino]}");
+                        }
+                        
+                    }
+                    
+                }
+
+            }
+            static void Sacar(List<string> cpfs, List<double> saldos)
+            {
+
+                Console.Write("Digite o CPF da conta: ");
+                string cpfConta = Console.ReadLine();
+                int indexConta = cpfs.FindIndex(cpf => cpf == cpfConta);
+
+                if (indexConta == -1)
+                {
+                    Console.WriteLine("Não foi possível sacar desta Conta");
+                    Console.WriteLine("MOTIVO: Conta não encontrada.");
+                }
+                else
+                {
+                    Console.Write("Digite o valor a ser sacado: ");
+                    double valorSaque = double.Parse(Console.ReadLine());
+                    if (valorSaque > saldos[indexConta])
+                    {
+                        Console.WriteLine("Não foi possível sacar desta Conta");
+                        Console.WriteLine("MOTIVO: Saldo insuficiente");
+                    }
+                    else
+                    {
+                        saldos[indexConta] -= valorSaque;
+                        Console.WriteLine($"O saldo da conta é R${saldos[indexConta]}");
+                    }
+                    
+                }
+
+            }
+            static void Depositar(List<string> cpfs, List<double> saldos)
+            {
+
+                Console.Write("Digite o CPF da conta: ");
+                string cpfConta = Console.ReadLine();
+                int indexConta = cpfs.FindIndex(cpf => cpf == cpfConta);
+
+                if (indexConta == -1)
+                {
+                    Console.WriteLine("Não foi possível depositar nesta Conta");
+                    Console.WriteLine("MOTIVO: Conta não encontrada.");
+                }
+                else
+                {
+                    Console.Write("Digite o valor a ser depositado: ");
+                    double valorDeposito = double.Parse(Console.ReadLine());
+                    saldos[indexConta] += valorDeposito;
+                    Console.WriteLine($"O saldo da conta é R${saldos[indexConta]}");
+
+                }
+
+            }
+            static void Opcao()
             {
                 Console.WriteLine("1 - Trasnferir");
                 Console.WriteLine("2 - Sacar");
@@ -88,10 +188,10 @@
                 Console.WriteLine("0 - Para sair do programa");
                 Console.Write("Digite a opção desejada: ");
             }
-            int option;
+
             do
             {
-                Menu();
+                Opcao();
                 option = int.Parse(Console.ReadLine());
 
                 Console.WriteLine("-----------------");
@@ -102,53 +202,19 @@
                         Console.WriteLine("Estou encerrando o programa...");
                         break;
                     case 1:
-                        Transferir();
+                        Transferir(cpfs, saldos);
                         break;
                     case 2:
-                        Sacar();
+                        Sacar(cpfs, saldos);
                         break;
                     case 3:
-                        Depositar();
+                        Depositar(cpfs, saldos);
                         break;
                 }
 
                 Console.WriteLine("-----------------");
 
             } while (option != 0);
-
-            static void Transferir()
-            {
-
-                Console.Write("Digite o CPF da conta de origem:");
-                int indiceContaOrigem = int.Parse(Console.ReadLine());
-
-                Console.Write("Digite o CPF da conta de destino: ");
-                int indiceContaDestino = int.Parse(Console.ReadLine());
-
-                Console.Write(" Digite o valor a ser transferido:");
-                double valorTrasferencia = double.Parse(Console.ReadLine());
-
-            }
-            static void Sacar()
-            {
-
-                Console.Write("Digite o CPF da conta: ");
-                int indiceConta = int.Parse(Console.ReadLine());
-
-                Console.Write("Digite o valor a ser sacado: ");
-                double valorSaque = double.Parse(Console.ReadLine());
-
-            }
-            static void Depositar()
-            {
-
-                Console.Write("Digite o CPF da conta: ");
-                int indiceConta = int.Parse(Console.ReadLine());
-
-                Console.Write("Digite o valor a ser depositado: ");
-                double valorDeposito = double.Parse(Console.ReadLine());
-
-            }
 
         }
 
@@ -189,6 +255,9 @@
                         ApresentarUsuario(cpfs, titulares, saldos);
                         break;
                     case 5:
+                        ApresentarValorAcumulado(saldos);
+                        break;
+                    case 6:
                         ManipularConta(cpfs, titulares, senhas, saldos);
                         break;
                 }
@@ -199,3 +268,4 @@
 
         }
     }
+}
