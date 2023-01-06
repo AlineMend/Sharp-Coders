@@ -87,7 +87,7 @@ namespace ByteBank
 
             static void Login(List<string> cpfs, List<string> titulares, List<string> senhas)
             {
-                Console.Write("Realize o Login! ");
+                Console.WriteLine("Realize o Login! ");
                 Console.WriteLine("------------------------");
                 Console.Write("Digite o CPF: ");
                 String cpfConta = Console.ReadLine();
