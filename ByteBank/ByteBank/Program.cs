@@ -13,6 +13,7 @@ namespace ByteBank
             Console.WriteLine("5 - Apresentar valor acumulado no banco");
             Console.WriteLine("6 - Manipular a conta");
             Console.WriteLine("0 - Para sair do programa");
+            Console.WriteLine();
             Console.Write("Digite a opção desejada: ");
         }
 
@@ -83,6 +84,37 @@ namespace ByteBank
         static void ManipularConta(List<string> cpfs, List<string> titulares, List<string> senhas, List<double> saldos)
         {
             int option;
+
+            static void Login(List<string> cpfs, List<string> titulares, List<string> senhas)
+            {
+                Console.Write("Realize o Login! ");
+                Console.WriteLine("------------------------");
+                Console.Write("Digite o CPF: ");
+                String cpfConta = Console.ReadLine();
+                int indexConta = cpfs.FindIndex(cpf => cpf == cpfConta);
+                if (indexConta == -1)
+                {
+                    Console.WriteLine("Não foi possível logar");
+                    Console.WriteLine("MOTIVO: Usuario não encontrado.");
+                    Login(cpfs, titulares, senhas);
+                }
+                else
+                {
+                    Console.Write("Digite a senha: ");
+                    String senhaConta = Console.ReadLine();
+                    if (senhas[indexConta] != senhaConta)
+                    {
+                        Console.WriteLine("Não foi possível logar");
+                        Console.WriteLine("MOTIVO: Senha incorreta.");
+                        Login(cpfs, titulares, senhas);
+                    }
+
+                    
+                }
+                Console.Clear();
+                Console.WriteLine($"Bem Vindo(a) {titulares[indexConta]}!");
+                Console.WriteLine();
+            }
        
             static void Transferir(List<string> cpfs, List<double> saldos)
             {
@@ -119,6 +151,7 @@ namespace ByteBank
                         {
                             saldos[indexContaOrigem] -= valorTrasferencia;
                             saldos[indexContaDestino] += valorTrasferencia;
+                            Console.Clear();
                             Console.WriteLine($"O novo saldo da conta de origem é R${saldos[indexContaOrigem]}");
                             Console.WriteLine($"O novo saldo da conta de destino é R${saldos[indexContaDestino]}");
                         }
@@ -152,6 +185,7 @@ namespace ByteBank
                     else
                     {
                         saldos[indexConta] -= valorSaque;
+                        Console.Clear();
                         Console.WriteLine($"O saldo da conta é R${saldos[indexConta]}");
                     }
                     
@@ -175,6 +209,7 @@ namespace ByteBank
                     Console.Write("Digite o valor a ser depositado: ");
                     double valorDeposito = double.Parse(Console.ReadLine());
                     saldos[indexConta] += valorDeposito;
+                    Console.Clear();
                     Console.WriteLine($"O saldo da conta é R${saldos[indexConta]}");
 
                 }
@@ -186,9 +221,11 @@ namespace ByteBank
                 Console.WriteLine("2 - Sacar");
                 Console.WriteLine("3 - Depositar");
                 Console.WriteLine("0 - Para sair do programa");
+                Console.WriteLine();
                 Console.Write("Digite a opção desejada: ");
             }
 
+            Login(cpfs, titulares, senhas);
             do
             {
                 Opcao();
@@ -221,7 +258,8 @@ namespace ByteBank
         public static void Main(string[] args)
         {
 
-            Console.WriteLine("Antes de começar a usar, vamos configurar alguns valores: ");
+            Console.WriteLine("Bem vindo(a) ao Byte Bank! ");
+            Console.WriteLine();
 
             List<string> cpfs = new List<string>();
             List<string> titulares = new List<string>();
