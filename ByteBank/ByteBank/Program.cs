@@ -156,6 +156,7 @@ namespace ByteBank
                         {
                             saldos[indexContaOrigem] -= valorTrasferencia;
                             saldos[indexContaDestino] += valorTrasferencia;
+                            Console.Clear();
                             Console.WriteLine($"O novo saldo da conta de origem é R${saldos[indexContaOrigem]}");
                             Console.WriteLine($"O novo saldo da conta de destino é R${saldos[indexContaDestino]}");
                         }
@@ -189,6 +190,7 @@ namespace ByteBank
                     else
                     {
                         saldos[indexConta] -= valorSaque;
+                        Console.Clear();
                         Console.WriteLine($"O saldo da conta é R${saldos[indexConta]}");
                     }
                     
@@ -220,7 +222,6 @@ namespace ByteBank
             }
             static void Opcao()
             {
-                Console.Clear();
                 Console.WriteLine("1 - Trasnferir");
                 Console.WriteLine("2 - Sacar");
                 Console.WriteLine("3 - Depositar");
